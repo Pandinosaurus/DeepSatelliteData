@@ -18,7 +18,7 @@ List of labelled datasets, projects, and papers relevant to classifying satellit
 
 Nb             | Paper         
  ------------- |---------------
- 1 | [SEMANTIC SEGMENTATION OF AERIAL IMAGES WITH AN ENSEMBLE OF CNNS](http://intanto.net/publications/Marmanis_isprs16.pdf)|
+ 1 | [Semantic Segmentation of Aerial Images With an Ensemble of CNNS](http://intanto.net/publications/Marmanis_isprs16.pdf)|
  2 | [DeepLab: Semantic Image Segmentation with Deep  Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) 
  3 | [A novel spectral index to automatically extract road networks from WorldView-2 satellite imagery](http://www.sciencedirect.com/science/article/pii/S111098231400043X)
  4 | [Classification and Segmentation of Satellite Orthoimagery Using Convolutional Neural Networks](http://www.mdpi.com/2072-4292/8/4/329/html)
