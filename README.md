@@ -9,6 +9,7 @@ List of labelled datasets, projects, and papers relevant to classifying satellit
     - [Brazilian Coffee Scenes Dataset](http://www.patreo.dcc.ufmg.br/downloads/brazilian-coffee-dataset/)
     - [Kaggle: Dstl Satellite Imagery](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data])
     - [Deep learning for Earth Observation](https://github.com/nshaud/DeepNetsForEO)
+    - [HistAerial: Historical Aerial Images Dataset](http://eidolon.univ-lyon2.fr/~remi1/HistAerialDataset/)
 
 - Projects
     - [Project Using OSM Roads](https://github.com/trailbehind/DeepOSM)
@@ -21,4 +22,4 @@ List of labelled datasets, projects, and papers relevant to classifying satellit
     - [Classification and Segmentation of Satellite Orthoimagery Using Convolutional Neural Networks](http://www.mdpi.com/2072-4292/8/4/329/html)
     - [Scene Classification via a Gradient Boosting Random Convolutional Network Framework](https://www.researchgate.net/publication/283523609_Scene_Classification_via_a_Gradient_Boosting_Random_Convolutional_Network_Framework)
     - [Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
-    - []()
+    - [Automatic Land Cover Reconstruction From Historical Aerial Images: An Evaluation of Features Extraction and Classification Algorithms](http://eidolon.univ-lyon2.fr/~remi1/HistAerialDataset/paper/ratajczak2019-tip-preprint.pdf)
