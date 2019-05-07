@@ -4,6 +4,7 @@ List of labelled datasets, projects, and papers relevant to classifying satellit
 
 - Datasets
     - [SpaceNet](https://aws.amazon.com/public-datasets/spacenet/)
+    - [ISPRS Semantic Labelling](http://www2.isprs.org/commissions/comm3/wg4/semantic-labeling.html) [1][8]
     - [SAT-4 and SAT-6](http://csc.lsu.edu/~saikat/deepsat/)
     - [Brazilian Coffee Scenes Dataset](http://www.patreo.dcc.ufmg.br/downloads/brazilian-coffee-dataset/)
     - [Kaggle: Dstl Satellite Imagery](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data])
