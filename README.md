@@ -15,7 +15,8 @@ List of labelled datasets, projects, and papers relevant to classifying satellit
     - [Project Using OSM Roads](https://github.com/trailbehind/DeepOSM)
     
 - Papers
-Number        | Paper         
+
+Nb             | Paper         
  ------------- |---------------
  1 | [SEMANTIC SEGMENTATION OF AERIAL IMAGES WITH AN ENSEMBLE OF CNNS](http://intanto.net/publications/Marmanis_isprs16.pdf)|
  2 | [DeepLab: Semantic Image Segmentation with Deep  Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) 
